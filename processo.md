@@ -24,9 +24,9 @@ Este ficheiro contém o **acordo de trabalho do grupo**  da Parte I do Lab #02. 
 | Membro | Responsabilidade (accountability) | Tarefas concretas no projecto |
 |---|---|---|
 | Pedro Bernardo (`Pedro-Bernardo15`) | Product Owner (e membro da equipa de desenvolvimento) | Representar o coordenador de turno, ordenar a lista do produto, escrever as histórias e critérios de aceitação, aceitar ou rejeitar incrementos na revisão. |
-| `[Nome do membro]` | Scrum Master | Garantir que os eventos acontecem e são registados no próprio dia, ajudar a remover impedimentos, acompanhar as medidas de fluxo e o limite de WIP. |
-| `[Nome do membro]` | Developer | Implementar autenticação e perfis, gestão de turmas e alunos, e respectivos testes. |
-| `[Nome do membro]` | Developer | Implementar registo de ocorrências (vários alunos), medidas e acompanhamento, e respectivos testes. |
-| `[Nome do membro]` | Developer | Implementar histórico do aluno, interface responsiva/acessível e relatório de testes. |
+| David De Brito (`David-947)` | Scrum Master | Garantir que os eventos acontecem e são registados no próprio dia, ajudar a remover impedimentos, acompanhar as medidas de fluxo e o limite de WIP. |
+| Guilherme Mota (`Mota35`) | Developer | Implementar autenticação e perfis, gestão de turmas e alunos, e respectivos testes. |
+| Faustino Marcos (`Fmarcos2023`) | Developer | Implementar registo de ocorrências (vários alunos), medidas e acompanhamento, e respectivos testes. |
+| Guilherme Mota (`Mota35`) | Developer | Implementar histórico do aluno, interface responsiva/acessível e relatório de testes. |
 
 **Responsabilidades e papéis:** o Scrum Guide 2020 fala em *accountabilities* (responsabilidades) e não em *roles* (papéis) porque um membro pode assumir mais do que uma responsabilidade e o que importa é o resultado pelo qual responde, não o título. No nosso grupo, o Product Owner também programa e o Scrum Master também revê código; o que não pode acontecer é ninguém responder pelo valor do produto, pelo processo ou pelo incremento. Fonte: Schwaber & Sutherland, *The Scrum Guide*, secção “Scrum Team” (2020).
