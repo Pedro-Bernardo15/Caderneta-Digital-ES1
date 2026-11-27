@@ -1,21 +1,31 @@
 # Guia de preenchimento — dados que faltam
 
-Este documento indica **exactamente onde** substituir os marcadores antes de entregar o Sprint 1.
-Todo o resto (código, testes, requisitos, PRs, quadro, tag) já está pronto no GitHub.
+Este documento indica **exactamente onde** substituir os marcadores antes de entregar o laboratório.
+O `README.md` foi limitado ao que o enunciado pede; as escolhas de stack, contas, comandos,
+testes e processo que não foram pedidas passaram a marcadores.
 
 > Convenção: qualquer texto entre `[` e `]` é um marcador a substituir.
 > Excepção: os `[________]` em `docs/prototipo.md` e os `{ id, nome, ... }` em
 > `docs/modelo-dados.md` são intencionais — representam, respectivamente, caixas de
 > formulário do wireframe e a notação do esquema de dados.
 
-## 1. Identificação do grupo — `README.md`
+## 1. `README.md` — identificação e decisões do grupo
 
-| Local | Marcador | O que escrever |
+O README foi reescrito para conter **apenas o que o enunciado pede**. Todas as escolhas que o Laboratório deixa ao grupo aparecem como marcadores.
+
+| Secção | Marcador | O que escrever |
 |---|---|---|
-| Linha 5 | `[número do grupo]` | Número do grupo (ex.: `Grupo 7`) |
-| Linha 5 | `[M1/M2/M3]` | Turma (ex.: `M2`) |
-| Linha 6 | `[Nome do membro 2]` … `[Nome do membro 5]` | Nome e, se quiser, `@username` dos restantes membros |
-| Linha 9 | `[opcional — indicar URL se publicada]` | URL da aplicação publicada, ou `—` se não houver |
+| Cabeçalho | `[número do grupo]` | Número do grupo (ex.: `Grupo 7`) |
+| Cabeçalho | `[M1/M2/M3]` | Turma (ex.: `M2`) |
+| Cabeçalho | `[nome completo e número de cada membro]` | Nomes e números dos membros |
+| Cabeçalho | `[link do repositório]` · `[link do quadro]` | URLs reais do repo e do quadro |
+| Cabeçalho | `[URL, se publicada; caso contrário indicar “—”]` | URL publicada ou `—` |
+| 1. Documentação técnica | `[linguagem e framework decididos pelo grupo]` e os 2 comandos seguintes | Stack e comandos reais de instalação/execução |
+| 1. Documentação técnica | `[endereço e porta da aplicação]` | Ex.: `http://localhost:3000` |
+| 1. “Decisões deixadas ao grupo” | 4 marcações `[preencher]` | Linguagem/framework, guardação de dados, publicação e perfis |
+| 2. Manual do utilizador | `[preencher com os perfis identificados pelo grupo]` | Perfis reais (PO, SM, Developers não são perfis da aplicação) |
+| 2. Manual do utilizador | `[preencher com os passos reais da aplicação do grupo…]` | Percursos reais de cada funcionalidade |
+| 3. Relatório de testes | `[Preencher com os testes realizados pelo grupo…]` | Testes, método e resultados reais |
 
 ## 2. Equipa e responsabilidades — `processo.md`
 
