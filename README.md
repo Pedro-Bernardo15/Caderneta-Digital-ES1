@@ -120,6 +120,6 @@ Todos os campos têm etiqueta visível, os erros explicam como corrigir, a naveg
 Os nomes dos colegas, o número/turma do grupo, o URL publicado e o retorno do coordenador
 ficaram como marcadores `[…]` porque dependem de dados do grupo. O
 **[guia de preenchimento](docs/preenchimento.md)** indica todos os ficheiros e linhas onde
-substituí-los. O resto da entrega já está no GitHub: issues #1–#15, PRs #16–#20, quadro
-público, convite do `judsonp` com permissão Write, revisões, etiqueta `sprint-1` e
-evidências em `docs/evidencias/`.
+substituí-los. O resto da entrega já está no GitHub: issues #1–#15, PRs #16–#21, quadro
+público, convite do `judsonp` com permissão Write, revisões, iteração `Sprint 1` (24–27/11),
+etiqueta `sprint-1` e evidências em `docs/evidencias/`.

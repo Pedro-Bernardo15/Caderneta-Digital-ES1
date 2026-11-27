@@ -97,8 +97,9 @@
 
 | Evidência | Ficheiro / ligação |
 |---|---|
-| Quadro no fim da sprint (15 issues; limites WIP 2 e 3) | [`docs/evidencias/quadro-sprint-1.png`](../docs/evidencias/quadro-sprint-1.png) |
-| PRs #16–#20 mergeados | [`docs/evidencias/pull-requests.png`](../docs/evidencias/pull-requests.png) e [Pull requests no GitHub](https://github.com/Pedro-Bernardo15/Caderneta-Digital-ES1/pulls?q=is%3Apr+is%3Amerged) |
+| Quadro no fim da sprint (15 issues: 5 pendentes e 10 concluídas; limites WIP 2 e 3) | [`docs/evidencias/quadro-sprint-1.png`](../docs/evidencias/quadro-sprint-1.png) |
+| Vista em tabela com a iteração `Sprint 1` (24–27/11) nas 10 issues da sprint | [`docs/evidencias/quadro-iteracoes.png`](../docs/evidencias/quadro-iteracoes.png) |
+| PRs #16–#20 na captura e #21 também mergeado | [`docs/evidencias/pull-requests.png`](../docs/evidencias/pull-requests.png) e [Pull requests no GitHub](https://github.com/Pedro-Bernardo15/Caderneta-Digital-ES1/pulls?q=is%3Apr+is%3Amerged) |
 | Revisão em PR (exemplo PR #16) | [`docs/evidencias/pr-16-revisao.png`](../docs/evidencias/pr-16-revisao.png) |
 | Quadro público com convite do `judsonp` (Write) | [`docs/evidencias/acesso-projeto.png`](../docs/evidencias/acesso-projeto.png) |
 | Histórico do Git (branches, merges e etiqueta) | [`docs/evidencias/git-log.txt`](../docs/evidencias/git-log.txt) |
