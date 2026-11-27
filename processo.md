@@ -1,6 +1,6 @@
 # Processo de trabalho da equipa — Caderneta Digital do Coordenador de Turno
 
-Este ficheiro contém o **acordo de trabalho do grupo** para as actividades 1 e 2 da Parte I do Lab #02. Fontes: [Manifesto Ágil](https://agilemanifesto.org/) e [The Scrum Guide 2020](https://scrumguides.org/scrum-guide.html).
+Este ficheiro contém o **acordo de trabalho do grupo**  da Parte I do Lab #02. Fontes: [Manifesto Ágil](https://agilemanifesto.org/) e [The Scrum Guide 2020](https://scrumguides.org/scrum-guide.html).
 
 > **Nota de preenchimento:** os nomes marcados como `[Nome do membro]` devem ser substituídos pelos nomes reais do grupo antes da entrega.
 
