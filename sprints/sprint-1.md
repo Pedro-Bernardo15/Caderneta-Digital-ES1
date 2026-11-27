@@ -40,7 +40,7 @@
 
 ### 26 de Novembro — Semana 2
 - **Pedro Bernardo:** concluí turmas, alunos e os primeiros testes; vou registar ocorrências com vários alunos; impedimento: nenhum.
-- **`[Nome do membro]`:** escrevi o `processo.md` (Valores, Equipa, Eventos, Artefactos); voucellent completar as regras do quadro; impedimento: nenhum.
+- **`[Nome do membro]`:** escrevi o `processo.md` (Valores, Equipa, Eventos, Artefactos); vou completar as regras do quadro; impedimento: nenhum.
 - **`[Nome do membro]`:** revi o PR de turmas/alunos e comentei a validação dos formulários; impedimento: nenhum.
 - **Ajuste do quadro:** #2 para “Concluído”; #3 e #4 para “Em curso” (limite atingido).
 
@@ -67,7 +67,7 @@
 
 ## Retrospectiva
 
-**O que correu bem:**分工 clara entre código e documentação; uso de PRs para registar os eventos no próprio dia; testes automatizados desde cedo.
+**O que correu bem:** divisão clara de tarefas entre código e documentação; uso de PRs para registar os eventos no próprio dia; testes automatizados desde cedo.
 
 **O que melhorar:** o limite de WIP foi respeitado na maior parte do tempo, mas a passagem de cartões no quadro atrasou um dia; na Sprint 2 o Scrum Master vai verificar o quadro no início de cada daily.
 
@@ -95,9 +95,15 @@
 
 ## Evidências
 
-- Quadro no fim da sprint: `docs/evidencias/quadro-sprint-1.png` *(anexar captura após a criação do quadro)*.
-- PRs e revisões: ligações na secção “Pull requests” do repositório.
-- Histórico do Git: saída de `git log --oneline --graph` no relatório PDF.
-- Versão publicada: `[se existir, indicar o URL]`.
+| Evidência | Ficheiro / ligação |
+|---|---|
+| Quadro no fim da sprint (15 issues; limites WIP 2 e 3) | [`docs/evidencias/quadro-sprint-1.png`](../docs/evidencias/quadro-sprint-1.png) |
+| PRs #16–#20 mergeados | [`docs/evidencias/pull-requests.png`](../docs/evidencias/pull-requests.png) e [Pull requests no GitHub](https://github.com/Pedro-Bernardo15/Caderneta-Digital-ES1/pulls?q=is%3Apr+is%3Amerged) |
+| Revisão em PR (exemplo PR #16) | [`docs/evidencias/pr-16-revisao.png`](../docs/evidencias/pr-16-revisao.png) |
+| Quadro público com convite do `judsonp` (Write) | [`docs/evidencias/acesso-projeto.png`](../docs/evidencias/acesso-projeto.png) |
+| Histórico do Git (branches, merges e etiqueta) | [`docs/evidencias/git-log.txt`](../docs/evidencias/git-log.txt) |
+| Versão publicada | `[se existir, indicar o URL]` |
+
+> Os marcadores `[…]` restantes estão inventariados em [`docs/preenchimento.md`](../docs/preenchimento.md).
 
 **Etiqueta da sprint:** `sprint-1` (criada e enviada com `git push --tags`).
