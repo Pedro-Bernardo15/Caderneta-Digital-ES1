@@ -2,12 +2,12 @@
 
 Projecto integrador de **Engenharia de Software I — Lab #02 (Métodos ágeis com Scrum, Kanban, Git e GitHub)**, ISPTEC, 2026/2027.
 
-- **Grupo:** `[número do grupo]`
-- **Turma:** `[M1/M2/M3]`
-- **Membros:** `[nome completo e número de cada membro]`
-- **Repositório:** `[link do repositório]`
+- **Grupo:** S/N
+- **Turma:** M3
+- **Membros:** `Pedro Bernardo, David De Brito, Faustino Marcos, Guilherme Mota`
+- **Repositório:** 
 
-Este repositório contém os resultados das **actividades 1 e 2** da Parte I do laboratório, registados no ficheiro [`processo.md`](processo.md), conforme pedido no guia:
+Este repositório contém os resultados das **actividades 1 e 2** da Parte I do laboratório, registados no ficheiro (processo.md), conforme pedido no guia:
 
 - **Actividade 1 — Manifesto Ágil:** secção [“Valores do grupo”](processo.md#valores-do-grupo-actividade-1).
 - **Actividade 2 — Responsabilidades no Scrum:** secção [“Equipa”](processo.md#equipa-actividade-2).
