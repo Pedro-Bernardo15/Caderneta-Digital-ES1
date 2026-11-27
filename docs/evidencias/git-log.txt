@@ -1,4 +1,8 @@
-﻿*   13dfdb3 (HEAD -> main, tag: sprint-1, origin/main, origin/HEAD) Merge PR #20
+﻿*   426a421 (HEAD -> main, tag: sprint-1, origin/main, origin/HEAD) Merge PR #21
+|\  
+| * 529d5a1 (origin/docs/ajustes-finais-sprint-1, docs/ajustes-finais-sprint-1) Adiciona guia de preenchimento, evidencias e corrige registo da sprint
+|/  
+*   13dfdb3 Merge PR #20
 |\  
 | * 811190f (origin/docs/registo-sprint-1, docs/registo-sprint-1) Regista planeamento, dailies, revisao, retrospetiva e metricas do Sprint 1
 * |   235db08 Merge PR #19
@@ -19,5 +23,5 @@
 |\  
 | * c134dc2 (origin/feature/sprint-1-aplicacao, feature/sprint-1-aplicacao) ImplementaCadernetaDigital: autenticacao, turmas, ocorrencias, medidas e historico
 |/  
-* 0abbdf8 Atualiza├º├úo do README do projeto
+* 0abbdf8 Atualização do README do projeto
 * 129657b Initial commit

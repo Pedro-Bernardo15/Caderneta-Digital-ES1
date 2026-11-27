@@ -41,7 +41,8 @@ Todo o resto (código, testes, requisitos, PRs, quadro, tag) já está pronto no
 
 - `docs/prototipo.md` — os sublinhados são o desenho do ecrã.
 - `docs/modelo-dados.md` — a lista de campos entre chaves é a especificação do esquema.
-- `docs/evidencias/` — capturas já anexadas (quadro, PRs, revisão, acesso ao projecto e `git log`).
+- `docs/evidencias/` — capturas já anexadas (quadro, iteração `Sprint 1`, PRs, revisão,
+  acesso ao projecto e `git log`).
 
 ## 5. Passos finais depois de preencher
 
