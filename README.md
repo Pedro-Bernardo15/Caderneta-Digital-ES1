@@ -5,7 +5,7 @@ Projecto integrador de **Engenharia de Software I — Lab #02 (Métodos ágeis c
 - **Grupo:** S/N
 - **Turma:** M3
 - **Membros:** `Pedro Bernardo, David De Brito, Faustino Marcos, Guilherme Mota`
-- **Repositório:** 
+- **Repositório:** `https://github.com/Pedro-Bernardo15/Caderneta-Digital-ES1.git`
 
 Este repositório contém os resultados das **actividades 1 e 2** da Parte I do laboratório, registados no ficheiro (processo.md), conforme pedido no guia:
 
